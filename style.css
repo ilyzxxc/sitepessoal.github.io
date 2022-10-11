@@ -1,0 +1,53 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.container {
+    margin-top: 5%;
+    text-align: center;
+}
+
+#logo{
+    float: left;
+}
+
+#titulo{
+    float: left;
+    margin-top: 20%;
+    font-size: x-large;
+}
+#img1 {
+    float: left;
+    position: relative;
+
+}
+#img2 {
+    border: 1px solid black;
+    text-align: center;
+    width: 45%;
+    margin-top: 5%;
+
+}
+.imagensColunas{
+    width: 100%;
+}
+#img3 {
+    border: 1px solid black;
+    width: 45%;
+    margin-left: 50%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#img4 {
+    border: 1px solid black;
+    top: 55%;
+    text-align: center;
+    margin-top: 3%;
+
+}
+
+.divisor{
+    clear: both;
+}
